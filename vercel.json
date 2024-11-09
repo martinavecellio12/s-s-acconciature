@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/ssacconciature/servizi",
+      "source": "/servizi",
       "destination": "https://martinavecellio12.github.io/s-s-acconciature/servizi.pdf",
       "permanent": true
     }
